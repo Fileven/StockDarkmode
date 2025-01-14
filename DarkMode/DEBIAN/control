@@ -1,0 +1,9 @@
+Package: com.winmill.darkmode
+Name: DarkMode
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: A small theme like the dark mode you can find in iOS 18!
+Author: Winmill
+Maintainer: Winmill
+Section: Themes
+Depends: com.spark.snowboard
